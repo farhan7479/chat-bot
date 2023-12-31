@@ -7,6 +7,7 @@
     width: 50px;
     height: 50px;
     /* Change the background color as needed */
+    background-color: antiquewhite;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -38,7 +39,7 @@
   }
   
   .logo:hover {
-    background-color: #eee; /* Change background color on hover */
+    background-color: #c3b4b4; /* Change background color on hover */
     border-color: #ddd; /* Change border color on hover */
   }
   
