@@ -16,7 +16,7 @@ export default function App() {
             setOpen(!open);
           }}
         >
-          <img src="src/assets/logo.svg" alt="Logo" className="logo" />
+          <img src="https://imgs.search.brave.com/3eU9zAsgrUY5aD-30LIPFHLu9SkDfRyu6umTO12r2Ks/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzE5NTUwMDEucG5n" alt="Logo" className="logo" />
         </button>
       </div>
     </>
