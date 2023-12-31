@@ -16,7 +16,7 @@ export default function App() {
             setOpen(!open);
           }}
         >
-          <img src="src/assets/logo.jpg" alt="Logo" className="logo" />
+          <img src="src/assets/logo.svg" alt="Logo" className="logo" />
         </button>
       </div>
     </>
